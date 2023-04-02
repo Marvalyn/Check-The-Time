@@ -52,4 +52,9 @@ body {
 
 .second-hand {
     background: #d2e034;
+    height: 3px;
+}
+
+.min-hand {
+height: 4px;
 }
